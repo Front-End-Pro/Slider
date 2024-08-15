@@ -1,2 +1,2 @@
 # Slider 
-#### Try : https://ahvvad.github.io/Slider/
+#### Try : https://front-end-pro.ahvvad.github.io/Slider/
